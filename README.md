@@ -103,13 +103,24 @@ Claude Code v2를 활용한 개발 생산성 향상을 위한 종합 가이드�
 
 ## 📥 다운로드
 
-각 매뉴얼 파일을 다운로드하여 사용하세요:
+### 🎁 통합 완전판 (추천)
+**파일**: `ccmanual_complete.docx` (95KB)
 
-1. [제1권: 소개, 설치 및 기본 개념](ccmanual1.docx)
-2. [제2권: GitHub 기본 통합](ccmanual2.docx)
-3. [제3권: GitHub 고급 명령어 및 협업](ccmanual3.docx)
-4. [제4권: MCP 연결 및 설정](ccmanual4.docx)
-5. [제5권: 고급 기능 및 트러블슈팅](ccmanual5.docx)
+전 5권을 하나의 파일로 통합한 완전판입니다. 약 250쪽 분량으로 모든 내용을 한 번에 확인할 수 있습니다.
+
+👉 [**통합 완전판 다운로드**](ccmanual_complete.docx)
+
+---
+
+### 📚 개별 매뉴얼
+
+각 권을 개별적으로 다운로드할 수도 있습니다:
+
+1. [제1권: 소개, 설치 및 기본 개념](ccmanual1.docx) - 48KB
+2. [제2권: GitHub 기본 통합](ccmanual2.docx) - 53KB
+3. [제3권: GitHub 고급 명령어 및 협업](ccmanual3.docx) - 46KB
+4. [제4권: MCP 연결 및 설정](ccmanual4.docx) - 45KB
+5. [제5권: 고급 기능 및 트러블슈팅](ccmanual5.docx) - 48KB
 
 ## 💡 활용 팁
 
